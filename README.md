@@ -1,3 +1,7 @@
+## Note:
+
+All files in this repo are from the mlops training file - this is my place to play with settings. See bayer's central repo for the full training materials.
+
 # Bringing MLOps practices 
 There are multiple tools that are helpful when introducing MLOps practices. In our use case [MLFlow](https://mlflow.org/) is going to act as an example. It is a real Swiss Knife of MLOps and it is going to exceed our needs.
 
